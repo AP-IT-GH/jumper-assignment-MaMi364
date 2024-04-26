@@ -1,6 +1,7 @@
 # Jumper Assignment 
 
 In this assignment we have an agent who continously avoids obstacles (with different speeds) and collects coins.
+
 Disclaimer: I could not push the project to github because of bandwith problems instead I uploaded it on onedrive: https://apbe-my.sharepoint.com/:f:/g/personal/s127748_ap_be/EtAEucOTY0hOm6xTYG6M3W4BHXZ1xWQgN6wAYdRov2sryQ?e=lN6MUD
 ![Alt text](images/game.jpg)
 
